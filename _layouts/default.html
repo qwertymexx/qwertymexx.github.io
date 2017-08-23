@@ -17,22 +17,22 @@
     <div id="container">
       <div class="inner">
 
-        <header>
-          <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <header class="header">
+         <!--  <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-
+ -->
           <nav>
-          <ul class="menu">
+          <ul class="menu social notranslate">
             <li><a href="https://twitter.com/intent/follow?screen_name=mexx_marmend" rel="nofollow"
-              title="Follow me on Twitter" class="icon-twitter">Twitter</a></li>
+              title="Follow me on Twitter" ><i class="icon icon-twitter notranslate" aria-hidden="true"></i></a></li>
             <li><a itemprop="sameAs" href="https://github.com/qwertymexx" rel="nofollow"
-              title="My GitHub profile">Github</i></a></li>
+              title="My GitHub profile" class="icon icon-github"></i></a></li>
             <li><a itemprop="sameAs" href="http://stackoverflow.com/users/1613588/qwertymexx" rel="nofollow"
-              title="My StackOverflow profile">StackOverflow</i></a></li>
+              title="My StackOverflow profile" class="icon icon-stackoverflow"></i></a></li>
             <li><a itemprop="sameAs" href="https://www.facebook.com/maks.panov" rel="nofollow"
-              title="Follow me on Facebook">Facebook</i></a></li>
+              title="Follow me on Facebook" class="icon icon-facebook"></i></a></li>
             <li><a itemprop="sameAs" href="https://www.linkedin.com/in/maksym-panov-6017b77" rel="nofollow"
-              title="My LinkedIn profile">LinkedIn</i></a></li>
+              title="My LinkedIn profile" class="icon icon-linkedin"></i></a></li>
           </ul>
           <ul class="menu">
             <li><a href="/"

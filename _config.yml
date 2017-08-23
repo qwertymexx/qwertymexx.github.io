@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Maksym Panov proffesional profile
+title: Maksym Panov
 email: mexx@marmend.com
 description: > # this means to ignore newlines until "baseurl:"
   The personal profile page regarding software development.
@@ -27,6 +27,7 @@ markdown: kramdown
 theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
+  - jekyll-octicons
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
