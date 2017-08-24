@@ -446,6 +446,9 @@ footer a:hover {
 .icon-linkedin {
   background: url(Linkedin.svg); }
 
+.icon-mail {
+  background: url(email.svg); }
+
 .icon-twitter:hover {
   background: url(Twitter_color.svg); }
 
@@ -460,6 +463,9 @@ footer a:hover {
 
 .icon-linkedin:hover {
   background: url(Linkedin_color.svg); }
+
+.icon-mail:hover {
+  background: url(email_red.svg); }
 
 .gray, .footer, h2 .link, .subline, .pagination .mute, blockquote p::before {
   color: #919191; }
