@@ -113,7 +113,6 @@ body {
   margin: 0;
   overflow-x: hidden;
   padding-bottom: 2 * $em;
-  padding-top: 2 * $em;
   position: relative;
 }
 
@@ -288,7 +287,6 @@ h3 {
 }
 
 h2 {
-  margin-top: 2 * $em;
 
   .link {
     @extend %gray;

@@ -523,7 +523,6 @@ body {
   margin: 0;
   overflow-x: hidden;
   padding-bottom: 38px;
-  padding-top: 38px;
   position: relative; }
 
 a,
@@ -642,14 +641,12 @@ h2,
 h3 {
   position: relative; }
 
-h2 {
-  margin-top: 38px; }
-  h2 .link {
-    margin-left: 5.7px;
-    text-decoration: none; }
-    h2 .link:hover {
-      color: inherit;
-      opacity: 1; }
+h2 .link {
+  margin-left: 5.7px;
+  text-decoration: none; }
+  h2 .link:hover {
+    color: inherit;
+    opacity: 1; }
 
 .subline {
   list-style: none;
