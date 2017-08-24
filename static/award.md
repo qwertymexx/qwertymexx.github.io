@@ -14,4 +14,20 @@ keywords:
   - open source project award
 ---
 
-Submission
+
+
+[Cerified SCRUM Product Owner](https://www.scrumalliance.org/community/profile/mpanov3)<br/>
+SCRUM Product Owner<br/>
+April 2016<br/>
+[PDF](/pdf/Product_owner.pdf)
+
+
+[MongoDB - certified DBA](https://s3.amazonaws.com/edu-cert.10gen.com/downloads/95b6f2dcf97340e69b0deada01984a2a/Certificate.pdf)<br/>
+MongoDB - DBA|Architect<br/>
+June 2013	<br/>
+[PDF](/pdf/MongoDB_DBA.pdf)
+
+[MongoDB - certified java developer](https://s3.amazonaws.com/edu-cert.10gen.com/downloads/95b6f2dcf97340e69b0deada01984a2a/Certificate.pdf)<br/>
+MongoDB - java developer|Engineer<br/>
+June 2013	<br/>
+[PDF](/pdf/MongoDB_java.pdf)
