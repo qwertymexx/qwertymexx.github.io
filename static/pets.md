@@ -14,4 +14,4 @@ keywords:
   - startup founders
 ---
 
-It's a full list of my pet projects (which are still alive).
+[Clerk](https://github.com/qwertymexx/Clerk) - the future best document generation service.
