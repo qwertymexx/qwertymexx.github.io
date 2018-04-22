@@ -18,7 +18,7 @@ email: mexx@marmend.com
 description: > # this means to ignore newlines until "baseurl:"
   The personal profile page regarding software development.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://marmend.com # the base hostname & protocol for your site, e.g. http://example.com
+url: https://marmend.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mexx_marmend
 github_username:  qwertymexx
 
